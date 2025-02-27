@@ -114,7 +114,7 @@ python main.py
 
 ## **Author**
 
-👨‍💻 **[Your Name]**\
+👨‍💻 **Paschal O. Okafor**\
 🔗 **Troloppe Property Services**
 
 ---
